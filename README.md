@@ -6,8 +6,16 @@ The traditional developer-lead high-density condo development mode will inevitab
 
 ## Antithesis
 
+- ### Goal
 Because the fundamental goal for tradition developer-lead high-density condo development is to maximize the profit for the developer, the design of the condos is treated more as commodity rather than living spaces for the actual users. This commoditization will inevitablly lead to more homogeneous spatial configuration (to increase the market liquidity and decrease the design cost) which is hard to give way to higher level of customizations for individual users and community-driven development. 
-Top-down approach
+- ### Process
+Another problem with the typical approach is the top-down develop/design decision-making model. In this hiarachical model the developers are on top of the decision-making tree while the actual users are on the bottom and only have the choice to choose from limited options. Two problems raised from this approach:
+  - #### expensive develop cost.
+      Because of the top-down hiarachy, any changes on top of the decistion-making tree will affect all the decisions below. This will cause a lot of resources (time, design power) to make adjustment/new decisions. As a result, the develop cost will be very high which add up to the total cost of condos.
+  - #### responsive-less to users.
+      Because of the high cost of development fee and the bottom position on the decision-making tree, the actual users have little or no contribution to the develop/design process. As a result, the design of the condo cannot address the personal and social requirement of each user and further more, cannot be responsive to the local context.
+  
+  
 
 ## Literature Review
 
