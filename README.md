@@ -19,6 +19,46 @@ Another problem with the typical approach is the top-down develop/design decisio
 
 ## Literature Review
 
+Over the last few decades, the gap between those who produce and use housing has significantly increased. Citys like Vancouver are characterised by a singularity of big developers offering one-size-fits-all housing and an increasing lack of affordability with only 20% of the population being financially able to build a house. Contemporary modes of production have aroused a lot questioning. 
+
+#### global urbanization
+
+-more people move the city, we need more housing
+-current development modal since industrial revolution
+-current architectural design model since industrial revolution
+
+#### Current mass housing development models and their historical backgorund
+
+-typical developer-lead mode
+-historical theoretical works
+  -corbusier...
+
+
+#### Some alternative approaches that use the idea of bottom-up distributed system and their deficiencies
+
+-co-housing and social housing
+-lack of customization
+
+#### modular system?
+
+
+-conclusion
+
 ## Argument
 
+Be
+
 ## Methodology
+
+#### The bottom-up approach
+in order to fully exploit the bottom-up decision-making approach, it is important to understand the 
+-self-organized system
+  -rule-based
+    -game of life
+  -distributed
+    -GPU vs CPU
+    -reCaptcha
+
+#### the modular system
+
+  
