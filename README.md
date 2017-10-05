@@ -2,7 +2,8 @@
 
 ## Thesis
 
-The traditional developer-lead high-density condo development mode will inevitably lead to creating more and more homogeneous (as a result of commoditization), community-less and unaffordable housing (high development cost and high rate of investment). As an alternative approach, a bottom-up, self-organized development mode will create condos that are more customized, livable and affordable. 
+The traditional developer-lead high-density condo development mode will inevitably lead to creating more and more homogeneous (as a result of commoditization), responsive-less and unaffordable housing (high development cost and high rate of investment). As a contrast, the bottom-up, self-organized development mode will offer a great alternative. Through rethinking proposition between developers, architects and the condo users, a rule-based, self-organized system will create and allow users to access more affordable and responsive architectural design, in addition to a more efficient construction process.
+
 
 ## Antithesis
 
@@ -46,7 +47,17 @@ Over the last few decades, the gap between those who produce and use housing has
 
 ## Argument
 
-Be
+Why is it more beneficial to use self-organized system in Condo development?
+- ### Goal
+In self-organized sytems, the agents, 
+
+- ### Process
+  - #### Develop/Design cost
+  - #### Responsiveness to indivudual and larger context
+
+
+
+Through reverse the 
 
 ## Methodology
 
