@@ -2,7 +2,8 @@
 
 ## Thesis
 
-The traditional developer-lead high-density condo development mode will inevitably lead to creating more and more homogeneous (as a result of commoditization), responsive-less and unaffordable housing (high development cost and high rate of investment). As a contrast, the bottom-up, self-organized development mode will offer a great alternative. Through rethinking proposition between developers, architects and the condo users, a rule-based, self-organized system will create and allow users to access more affordable and responsive architectural design, in addition to a more efficient construction process.
+The traditional developer-lead high-density condo development mode will inevitably lead to creating more and more homogeneous (as a result of commoditization), responsive-less and unaffordable housing (high development cost and high rate of investment). As an alternative approach, the bottom-up, distributed system will offer a more dynamic, responsive housing develop strategy for both individual user and local context. Through reposition the architects' role in design from drawing-driven to algorithm-driven, the condo design process will also become more efficient and hence more accessible.
+
 
 
 ## Antithesis
