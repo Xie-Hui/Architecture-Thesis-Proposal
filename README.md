@@ -2,7 +2,9 @@
 
 ## Thesis
 
-The traditional developer-lead high-density condo development mode will inevitably lead to creating more and more homogeneous (as a result of commoditization), responsive-less and unaffordable housing (high development cost and high rate of investment). As an alternative approach, the bottom-up, distributed system will offer a more dynamic, responsive housing develop strategy for both individual users and broader context. Through reposition the architect's' role in design from drawing-driven to algorithm-driven, the condo design process will also become more efficient and hence more accessible.
+The traditional developer-lead high-density housing development mode will inevitably lead to creating more and more homogeneous, responsive-less housing that cannot satisfy the growth of the urban population in both quantity and diversity. 
+	As an alternative approach, the online distributed system that based on user-informing will offer a more responsive design. Through the pixelation of the living space with the design modules and rules, architects will able to design units directly in response to the users with specific spatial requirements without losing the overall control. 
+
 
 
 
