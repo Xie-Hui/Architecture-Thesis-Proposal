@@ -2,8 +2,8 @@
 
 ## Thesis
 
-The traditional developer-lead high-density housing development mode will inevitably lead to creating more and more homogeneous, responsive-less housing that cannot satisfy the growth of the urban population in both quantity and diversity. 
-	As an alternative approach, the online distributed system that based on user-informing will offer a more responsive design. Through the pixelation of the living space with the design modules and rules, architects will able to design units directly in response to the users with specific spatial requirements without losing the overall control. 
+The traditional developer-lead high-density housing development mode has and will inevitably lead to creating more and more homogeneous, responsive-less housing that cannot satisfy the growth of the urban population in both quantity and diversity. 
+	As an alternative approach, this thesis proposes an online distributed design system that based on crowdsourcing to provide a more responsive high-density housing design. Through the pixelation of the space with the standardized modules, architects will able to design units directly in response to the users' varied spatial needs (such as different family sizes, living styles, etc.) and the overall aggregation will emerge based on the predefined assemble rules.
 
 
 
